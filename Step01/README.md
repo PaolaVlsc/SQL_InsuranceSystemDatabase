@@ -69,45 +69,44 @@ You can use this database as a foundation for building insurance management syst
  ## Author Notes - Code
 
 ### Ενδεικτικός γενικός πίνακας – Overview of General Insurance
-
 <div align="center">
-  <img src="https://github.com/PaolaVlsc/SQL_InsuranceSystemDatabase/assets/87998374/bf2ce51a-8ad4-4b1f-96d1-00ee99fd3f33" width="50%">
+  <img src="https://github.com/PaolaVlsc/SQL_InsuranceSystemDatabase/assets/87998374/fe653447-e237-4b07-af80-65849b4203fc" width="50%">
 </div>
 
 ### Μοντέλο Οντοτήτων Συσχετίσεων – Entity Relationship Model
 
 <div align="center">
-  <img src="https://github.com/PaolaVlsc/SQL_InsuranceSystemDatabase/assets/87998374/44adaa19-cba8-4e58-b940-6b8c0fceb14e" width="50%">
+  <img src="https://github.com/PaolaVlsc/SQL_InsuranceSystemDatabase/assets/87998374/775ad391-2ce2-4448-803f-c2f2b129dd56" width="50%">
 </div>
 
 ### Three main entities / tables: customer, insurance, contract
 
 <div align="center">
-  <img src="https://github.com/PaolaVlsc/SQL_InsuranceSystemDatabase/assets/87998374/29e6bb77-9259-4c1b-9a5f-76f62d462ce3" width="50%">
+  <img src="https://github.com/PaolaVlsc/SQL_InsuranceSystemDatabase/assets/87998374/233a37a3-23e7-4126-9878-54540d6a4c39" width="50%">
 </div>
 
 <div align="center">
-  <img src="https://github.com/PaolaVlsc/SQL_InsuranceSystemDatabase/assets/87998374/8d551ab4-817c-4b9d-9fed-c47f61e62c09" width="50%">
+  <img src="https://github.com/PaolaVlsc/SQL_InsuranceSystemDatabase/assets/87998374/385984ee-0d41-4802-a598-c42908e97dc6" width="50%">
 </div>
 
 <div align="center">
-  <img src="https://github.com/PaolaVlsc/SQL_InsuranceSystemDatabase/assets/87998374/dd7e77ba-a743-4eee-8b6f-b6b6bda38acf" width="50%">
+  <img src="https://github.com/PaolaVlsc/SQL_InsuranceSystemDatabase/assets/87998374/a6cf4d73-7671-4a23-9327-144e893172ae" width="50%">
 </div>
 
 ### Sub tables: Coverage, Insurance_coverages, Insurance_customer
 
 <div align="center">
-  <img src="https://github.com/PaolaVlsc/SQL_InsuranceSystemDatabase/assets/87998374/46cb8414-de26-4eab-8183-e04893d0955f" width="50%">
+  <img src="https://github.com/PaolaVlsc/SQL_InsuranceSystemDatabase/assets/87998374/95aa03f1-4a50-4a3c-986b-c1f22e8a66c9" width="50%">
 </div>
 
 <div align="center">
-  <img src="https://github.com/PaolaVlsc/SQL_InsuranceSystemDatabase/assets/87998374/2d10f3d3-25cb-4792-a687-8ca3bafcec5e" width="50%">
+  <img src="https://github.com/PaolaVlsc/SQL_InsuranceSystemDatabase/assets/87998374/1c37a26c-6a99-4b9b-bbb6-f50ca9f9f5f1" width="50%">
 </div>
 
 ### Διάγραμμα Οντοτήτων – Συσχετίσεων – Entity-Relationship Diagram (ER Diagram)
 
 <div align="center">
-  <img src="https://github.com/PaolaVlsc/SQL_InsuranceSystemDatabase/assets/87998374/8c917e4a-eddd-4e07-bd2e-3ad34ac27287" width="50%">
+  <img src="https://github.com/PaolaVlsc/SQL_InsuranceSystemDatabase/assets/87998374/54984e84-7b4e-4394-8d57-7012296b1e17" width="50%">
 </div>
 
 ## Authors
