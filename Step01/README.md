@@ -107,4 +107,5 @@ You can use this database as a foundation for building insurance management syst
 
 ## Authors
 [Velasco Paola](https://github.com/PaolaVlsc?tab=repositories)
+
 Kabouri Margarita
