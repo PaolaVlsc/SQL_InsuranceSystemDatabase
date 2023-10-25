@@ -1,6 +1,9 @@
 # General Insurance Database
 
-This is a MySQL database for managing general insurance-related data. It includes tables for customers, insurance types, contracts, and more. This README provides an overview of the database structure, sample data, and SQL queries for common operations.
+This is a MySQL database for managing general insurance-related data. It includes tables for customers, insurance types, contracts, and more. 
+
+## Introduction 
+This code sets up a database for a fictional insurance company and demonstrates the creation of tables, insertion of sample data, and the use of views to retrieve and modify data within the database. It also includes queries to extract meaningful information from the database for analysis.
 
 ## Database Structure
 
@@ -35,12 +38,30 @@ You can use this database as a foundation for building insurance management syst
 - MySQL client
 - Create a database named `General_Insurance` and run the SQL queries provided in the repository to set up the database.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+ ## Author Notes - Code
 
-## Acknowledgments
+### Ενδεικτικός γενικός πίνακας – Overview of General Insurance
 
-- Thanks to [Your Name] for creating this database.
+![image](https://github.com/PaolaVlsc/SQL_InsuranceSystemDatabase/assets/87998374/bf2ce51a-8ad4-4b1f-96d1-00ee99fd3f33)
 
-Feel free to modify this README file to suit your project's specific needs. You can add information on how to set up the database, additional usage examples, or any other details that may be relevant.
+
+### Μοντέλο Οντοτήτων Συσχετίσεων – Entity Relationship Model
+
+![image](https://github.com/PaolaVlsc/SQL_InsuranceSystemDatabase/assets/87998374/44adaa19-cba8-4e58-b940-6b8c0fceb14e)
+
+### Three main entities / tables: customer, insurance, contract
+
+![image](https://github.com/PaolaVlsc/SQL_InsuranceSystemDatabase/assets/87998374/29e6bb77-9259-4c1b-9a5f-76f62d462ce3)
+
+![image](https://github.com/PaolaVlsc/SQL_InsuranceSystemDatabase/assets/87998374/8d551ab4-817c-4b9d-9fed-c47f61e62c09)
+
+![image](https://github.com/PaolaVlsc/SQL_InsuranceSystemDatabase/assets/87998374/dd7e77ba-a743-4eee-8b6f-b6b6bda38acf)
+
+### Sub tables: Coverage, Insurance_coverages, Insurance_customer
+![image](https://github.com/PaolaVlsc/SQL_InsuranceSystemDatabase/assets/87998374/46cb8414-de26-4eab-8183-e04893d0955f)
+
+![image](https://github.com/PaolaVlsc/SQL_InsuranceSystemDatabase/assets/87998374/2d10f3d3-25cb-4792-a687-8ca3bafcec5e)
+
+### Διάγραμμα Οντοτήτων – Συσχετίσεων – Entity-Relationship Diagram (ER Diagram)
+![image](https://github.com/PaolaVlsc/SQL_InsuranceSystemDatabase/assets/87998374/8c917e4a-eddd-4e07-bd2e-3ad34ac27287)
