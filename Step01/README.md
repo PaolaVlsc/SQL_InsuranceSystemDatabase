@@ -4,7 +4,7 @@ This is a MySQL database for managing general insurance-related data. It include
 
 # Table of Contents
 
-1. [General Insurance Database](#general-insurance-database)
+1. [Files](#files)
 2. [Introduction](#introduction)
 3. [Database Structure](#database-structure) 
 4. [Sample Data](#sample-data)
@@ -13,6 +13,15 @@ This is a MySQL database for managing general insurance-related data. It include
 7. [Usage](#usage)
 8. [Prerequisites](#prerequisites)
 9. [Author Notes - Code](#author-notes-code)
+
+## Files
+1. The commands in the file `code.txt`.
+
+2. ER Diagram of the database in the file `ER_DIAGRAM.png`.
+
+3. Explanation and execution of the tasks in the files `General_Insurance.docx` (word document) and `General_Insurance.pdf`.
+
+4. Backup of the Database in the file `general_insurance_project.sql`.
 
 
 ## Introduction 
@@ -95,3 +104,7 @@ You can use this database as a foundation for building insurance management syst
 <div align="center">
   <img src="https://github.com/PaolaVlsc/SQL_InsuranceSystemDatabase/assets/87998374/8c917e4a-eddd-4e07-bd2e-3ad34ac27287" width="50%">
 </div>
+
+## Authors
+[Velasco Paola](https://github.com/PaolaVlsc?tab=repositories)
+Kabouri Margarita
