@@ -48,7 +48,12 @@ Various SQL queries are included to demonstrate how to interact with the databas
 
 ## Views
 
-Views have been created to demonstrate how to use them. There are both updatable and non-updatable views, showcasing different scenarios.
+There are both updatable and non-updatable views, showcasing different scenarios. 
+
+- `customerInfo`: An updatable view that allows viewing and updating customer information.
+- `customerContract_view`: An updatable view that provides information about customers and their contracts.
+- `customers_view3`: A safe, updatable view for customers with certain criteria.
+- `cust_distinct_names`: A non-updatable view that displays distinct customer names.
 
 ## Usage
 
