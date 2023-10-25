@@ -1,0 +1,15 @@
+Πάολα Βελάσκο 161020
+Μαργαρίτα Κουμπούρη 18390109
+*******************************************************
+screenshots --> τα αποτελέσματα σε εικόνες 
+final.docx --> επεξηγηματικό αρχείο docx 
+final.pdf --> επεξηγηματικό αρχείο pdf 
+Database_backup_project.sql ---> backup της βάσης μας
+Στον φάκελο General insurance:
+~images ---> logo general insurance
+~client_payment.php ---> βήμα 11
+~clientoption.html ---> βήμα 11
+~index.html ---> hostpage
+~menuproducts.html ---> βήμα 10
+~prod_per_client.php ---> βήμα 10
+~view_products.php ---> βήμα 9
